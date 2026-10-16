@@ -4,11 +4,18 @@
 [ext_resource type="MeshLibrary" uid="uid://di2w472wvgeb0" path="res://biomes.tres" id="2_mx8sn"]
 [ext_resource type="MeshLibrary" uid="uid://bjncqeoeqjadu" path="res://buildings.tres" id="2_w8frs"]
 [ext_resource type="Material" uid="uid://pm7ajdaiu53h" path="res://models_sample_1/selection_material.tres" id="3_w8frs"]
+[ext_resource type="Script" uid="uid://cc67kgpgsounl" path="res://scenes/game_manager.gd" id="5_ppgk2"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_e6xji"]
 
 [sub_resource type="BoxMesh" id="BoxMesh_gpbut"]
 size = Vector3(2, 2, 2)
+
+[sub_resource type="Environment" id="Environment_fpq87"]
+ambient_light_source = 2
+ambient_light_color = Color(0.56078434, 0.6392157, 0.78039217, 1)
+fog_enabled = true
+fog_density = 0.001
 
 [node name="Level" type="Node3D" unique_id=1026683869]
 script = ExtResource("1_w7c3h")
@@ -38,9 +45,26 @@ current = true
 size = 10.934
 far = 200.0
 
-[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1732960939]
-
 [node name="SelectionBox" type="MeshInstance3D" parent="." unique_id=862860422]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 15.936584, 5.1775703)
+cast_shadow = 0
 mesh = SubResource("BoxMesh_gpbut")
 surface_material_override/0 = ExtResource("3_w8frs")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=1447439446]
+environment = SubResource("Environment_fpq87")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="WorldEnvironment" unique_id=957338654]
+transform = Transform3D(0.7771459, 0.48208737, -0.40451935, 0, 0.64278764, 0.76604444, 0.6293204, -0.59532833, 0.4995398, 0, 0, 0)
+light_color = Color(1, 0.94509804, 0.8392157, 1)
+light_energy = 1.2
+shadow_enabled = true
+shadow_opacity = 0.7
+shadow_blur = 2.5
+
+[node name="GAME_MANAGER" type="Node3D" parent="." unique_id=512033987]
+script = ExtResource("5_ppgk2")
+
+[node name="Timer" type="Timer" parent="GAME_MANAGER" unique_id=290875411]
+wait_time = 60.0
+autostart = true

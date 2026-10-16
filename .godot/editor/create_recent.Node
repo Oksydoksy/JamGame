@@ -1,5 +1,8 @@
-MenuBar
+Timer
+Node3D
 DirectionalLight3D
+WorldEnvironment
+MenuBar
 Camera3D
 CSGMesh3D
 GridMap

@@ -2,7 +2,7 @@ extends Node3D
 
 @export var camera_speed : int = 5
 
-@onready var grid_map: GridMap = $GridMap
+@onready var grid_map: GridMap = $buildings_layer
 @onready var player_camera: Camera3D = $PlayerCamera
 @onready var selectionbox: Node3D = $SelectionBox
 
