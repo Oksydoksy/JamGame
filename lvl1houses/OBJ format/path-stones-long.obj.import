@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxhnk2qqk7d5k"
+path="res://.godot/imported/path-stones-long.obj-ba3e6ba36b6bfc0150d7146c884b9a3d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/path-stones-long.obj-ba3e6ba36b6bfc0150d7146c884b9a3d.mesh"]
+
+source_file="res://lvl1houses/OBJ format/path-stones-long.obj"
+dest_files=["res://.godot/imported/path-stones-long.obj-ba3e6ba36b6bfc0150d7146c884b9a3d.mesh", "res://.godot/imported/path-stones-long.obj-ba3e6ba36b6bfc0150d7146c884b9a3d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

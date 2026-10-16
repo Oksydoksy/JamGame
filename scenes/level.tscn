@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://dq0hioe2wcdf8" path="res://scenes/level.gd" id="1_w7c3h"]
 [ext_resource type="MeshLibrary" uid="uid://di2w472wvgeb0" path="res://biomes.tres" id="2_mx8sn"]
 [ext_resource type="MeshLibrary" uid="uid://bjncqeoeqjadu" path="res://buildings.tres" id="2_w8frs"]
-[ext_resource type="Material" uid="uid://pm7ajdaiu53h" path="res://models_sample_1/selection_material.tres" id="3_w8frs"]
+[ext_resource type="Material" uid="uid://pm7ajdaiu53h" path="res://lvl1houses/selection_material.tres" id="3_w8frs"]
 [ext_resource type="Script" uid="uid://cc67kgpgsounl" path="res://scenes/game_manager.gd" id="5_ppgk2"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_e6xji"]
@@ -34,7 +34,7 @@ mesh_library = ExtResource("2_w8frs")
 physics_material = SubResource("PhysicsMaterial_e6xji")
 cell_center_y = false
 data = {
-"cells": PackedInt32Array(65535, 65535, 4, 65534, 65535, 2, 65535, 0, 2, 0, 0, 2, 1, 0, 2, 65535, 65534, 2, 65534, 65534, 4, 65534, 65533, 2, 65533, 65533, 2, 65533, 65534, 2, 65533, 65535, 2, 65534, 0, 2, 65535, 1, 2, 1, 1, 2, 0, 1, 4, 0, 65535, 2, 0, 65534, 2, 2, 0, 7, 65533, 0, 31)
+"cells": PackedInt32Array(65535, 65535, 4, 65534, 65535, 2, 65535, 0, 2, 0, 0, 2, 1, 0, 2, 65535, 65534, 2, 65534, 65534, 4, 65534, 65533, 2, 65533, 65533, 2, 65533, 65534, 2, 65533, 65535, 2, 65534, 0, 2, 65535, 1, 2, 1, 1, 2, 0, 1, 4, 0, 65535, 2, 0, 65534, 2, 2, 0, 7)
 }
 metadata/_editor_floor_ = Vector3(0, 0, 0)
 
