@@ -1,9 +1,10 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1792176963
-buildings.tres::MeshLibrary::3045107425850320194::1792176895::0::1::::<><><>0<>0<><>::
+::res://::1792180063
+grass.obj::Mesh::3401656101602562380::1792180063::1792180081::1::::<><><>0<>0<>32cad6aefb57365027c0a36004871f53<>res://.godot/imported/grass.obj-b17aee523bee5e7165a57a70211e43c0.mesh<*>res://.godot/imported/grass.obj-b17aee523bee5e7165a57a70211e43c0.mesh::
 icon.svg::CompressedTexture2D::5512883033963963964::1792176895::1792176895::1::::<><><>0<>0<>4fc4e9693773b3edcf33ad35924b950d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+buildings.tres::MeshLibrary::3045107425850320194::1792177680::0::1::::<><><>0<>0<><>::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
 ::res://models_sample_1/::1792176895
-::res://models_sample_1/OBJ format/::1792176895
+::res://models_sample_1/OBJ format/::1792176979
 building-type-a.obj::Mesh::6734911231837580781::1792176895::1792176978::1::::<><><>0<>0<>a15534f29dbb36a410945589a1829ab4<>res://.godot/imported/building-type-a.obj-01d35a10c7936ebb165e01e62a9bd076.mesh<*>res://.godot/imported/building-type-a.obj-01d35a10c7936ebb165e01e62a9bd076.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
 building-type-b.obj::Mesh::530919200000146719::1792176895::1792176978::1::::<><><>0<>0<>446db0fa739146ac915a640dca475387<>res://.godot/imported/building-type-b.obj-c1e86d1371484c3fb1298ce8a9e7eae3.mesh<*>res://.godot/imported/building-type-b.obj-c1e86d1371484c3fb1298ce8a9e7eae3.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
 building-type-c.obj::Mesh::6624191052646834985::1792176895::1792176978::1::::<><><>0<>0<>e49202544cc55bb1e4a63efc236669b6<>res://.godot/imported/building-type-c.obj-ce2b5d96b8aad336a31016dcc99814a0.mesh<*>res://.godot/imported/building-type-c.obj-ce2b5d96b8aad336a31016dcc99814a0.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
@@ -44,13 +45,12 @@ path-stones-short.obj::Mesh::2775084585965068428::1792176895::1792176978::1::::<
 planter.obj::Mesh::2470248558710278381::1792176895::1792176978::1::::<><><>0<>0<>43b67ae13b6ee998ae77cdc77365a50e<>res://.godot/imported/planter.obj-f74f654a322e50c8207a6158ee5d5331.mesh<*>res://.godot/imported/planter.obj-f74f654a322e50c8207a6158ee5d5331.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
 tree-large.obj::Mesh::4987669514648501177::1792176895::1792176978::1::::<><><>0<>0<>a29fa625a5cbefe84b4a43568526b22f<>res://.godot/imported/tree-large.obj-aa90b1eb1ce65d7bdf00e83918c9f4ef.mesh<*>res://.godot/imported/tree-large.obj-aa90b1eb1ce65d7bdf00e83918c9f4ef.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
 tree-small.obj::Mesh::7278030515952456615::1792176895::1792176978::1::::<><><>0<>0<>54d276189ae1de8ef29eac5006a18c21<>res://.godot/imported/tree-small.obj-87a787ebd27952eb47ca9d3c8286ffe1.mesh<*>res://.godot/imported/tree-small.obj-87a787ebd27952eb47ca9d3c8286ffe1.mesh::uid://4e474c4jlva6::::res://models_sample_1/OBJ format/Textures/colormap.png
-::res://models_sample_1/OBJ format/Textures/::1792176895
+::res://models_sample_1/OBJ format/Textures/::1792176978
 colormap.png::CompressedTexture2D::2045553442311236347::1792176895::1792176978::1::::<><><>0<>0<>613d239c8ec89a0a60450daca495c399<>res://.godot/imported/colormap.png-cdaea8731b8209a656cb259c69e3632e.s3tc.ctex::
-::res://scenes/::1792176895
-buildings.tscn::PackedScene::3462616790529168438::1792176895::0::1::::<><><>0<>0<><>::uid://daonl67kuy2qw::::res://scenes/untitled.glb
+::res://scenes/::1792177680
 level.gd::GDScript::8334333041202277927::1792176895::0::1::::<>Node3D<><>0<>0<><>::
-level.tscn::PackedScene::7851029546322727442::1792176895::0::1::::<><><>0<>0<><>::uid://dq0hioe2wcdf8::::res://scenes/level.gd<>uid://bjncqeoeqjadu::::res://buildings.tres
-untitled.glb::PackedScene::7188973982414709730::1792176895::1792176895::1::::<><><>0<>0<>d0a9527c06f76a719fde80bbe68fd016<>res://.godot/imported/untitled.glb-e967fd2a2aa14b0f1b682ffa5a7ff8e8.scn::
+level.tscn::PackedScene::7851029546322727442::1792177680::0::1::::<><><>0<>0<><>::uid://dq0hioe2wcdf8::::res://scenes/level.gd<>uid://bjncqeoeqjadu::::res://buildings.tres
+City.tscn::PackedScene::8425340062628730403::1792177124::0::1::::<><><>0<>0<><>::
 ::res://ui/::1792176896
 control.tscn::PackedScene::4921322116633243679::1792176896::0::1::::<><><>0<>0<><>::
 License.txt::TextFile::-1::1792176895::0::1::::<><><>0<>0<><>::
