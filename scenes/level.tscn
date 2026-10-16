@@ -13,8 +13,9 @@ mesh_library = ExtResource("2_w8frs")
 physics_material = SubResource("PhysicsMaterial_e6xji")
 cell_center_y = false
 data = {
-"cells": PackedInt32Array(65535, 65535, 1, 0, 65535, 2, 1, 65535, 15, 1, 65534, 17, 0, 65534, 13, 65535, 65534, 13, 65534, 65534, 13, 65534, 65535, 10)
+"cells": PackedInt32Array(65535, 65535, 40, 0, 65535, 40, 1, 65535, 40, 1, 65534, 40, 0, 65534, 40, 65535, 65534, 40, 65534, 65534, 40, 65534, 65535, 40, 65533, 65534, 40, 65533, 65535, 40, 65534, 0, 40, 65535, 0, 40, 0, 0, 40, 65533, 0, 40, 1, 0, 40)
 }
+metadata/_editor_floor_ = Vector3(0, -6, 0)
 
 [node name="PlayerCamera" type="Camera3D" parent="." unique_id=68151937]
 transform = Transform3D(1, 0, 0, 0, 0.887588, 0.46063817, 0, -0.46063817, 0.887588, 0, 8.754634, 8.026944)
