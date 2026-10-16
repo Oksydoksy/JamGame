@@ -1,5 +1,9 @@
-Node3D
+Button
+Label
+CanvasLayer
+Control
 Timer
+Node3D
 DirectionalLight3D
 WorldEnvironment
 MenuBar
