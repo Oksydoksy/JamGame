@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvpoxk7fuw651"
+path="res://.godot/imported/building-skyscraper-d.obj-98f7762104f4df3f7e1b9c9fa74e367d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/building-skyscraper-d.obj-98f7762104f4df3f7e1b9c9fa74e367d.mesh"]
+
+source_file="res://lvl2houses/building-skyscraper-d.obj"
+dest_files=["res://.godot/imported/building-skyscraper-d.obj-98f7762104f4df3f7e1b9c9fa74e367d.mesh", "res://.godot/imported/building-skyscraper-d.obj-98f7762104f4df3f7e1b9c9fa74e367d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
