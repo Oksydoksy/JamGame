@@ -1,5 +1,4 @@
-MeshInstance3D
-CSGBox3D
+MenuBar
 DirectionalLight3D
 Camera3D
 CSGMesh3D

@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://qm5bdrl3kqii"]
+
+[ext_resource type="ArrayMesh" uid="uid://cu6t210s3m2a1" path="res://grass.obj" id="1_kuda3"]
+[ext_resource type="ArrayMesh" uid="uid://dcphdma4ly2rx" path="res://soil.obj" id="2_8qh54"]
+
+[node name="Node3D" type="Node3D" unique_id=1018098766]
+
+[node name="Grass" type="MeshInstance3D" parent="." unique_id=1592703434]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.9845625, 0, 0.012559652)
+mesh = ExtResource("1_kuda3")
+
+[node name="Soil" type="MeshInstance3D" parent="." unique_id=1375976166]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0075579, 0, 0.0112551525)
+mesh = ExtResource("2_8qh54")
