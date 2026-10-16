@@ -11,8 +11,9 @@ script = ExtResource("1_w7c3h")
 [node name="GridMap" type="GridMap" parent="." unique_id=1127732831]
 mesh_library = ExtResource("2_w8frs")
 physics_material = SubResource("PhysicsMaterial_e6xji")
+cell_center_y = false
 data = {
-"cells": PackedInt32Array(65531, 65533, 655360, 65533, 65533, 655360, 65535, 65533, 655360, 1, 65533, 655360, 65534, 65535, 655361)
+"cells": PackedInt32Array(65535, 65535, 1, 0, 65535, 2, 1, 65535, 15, 1, 65534, 17, 0, 65534, 13, 65535, 65534, 13, 65534, 65534, 13, 65534, 65535, 10)
 }
 
 [node name="PlayerCamera" type="Camera3D" parent="." unique_id=68151937]
