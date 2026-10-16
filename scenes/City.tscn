@@ -40,7 +40,6 @@
 [ext_resource type="ArrayMesh" uid="uid://bbguvrtx0uhpd" path="res://models_sample_1/OBJ format/planter.obj" id="38_dufnx"]
 [ext_resource type="ArrayMesh" uid="uid://cdccgns7uk5uj" path="res://models_sample_1/OBJ format/tree-large.obj" id="39_xy8vr"]
 [ext_resource type="ArrayMesh" uid="uid://dbxsdm0qjxv3t" path="res://models_sample_1/OBJ format/tree-small.obj" id="40_ixas7"]
-[ext_resource type="ArrayMesh" uid="uid://cu6t210s3m2a1" path="res://grass.obj" id="41_u6xcq"]
 
 [node name="City" type="Node3D" unique_id=1723607090]
 
@@ -203,7 +202,3 @@ mesh = ExtResource("39_xy8vr")
 [node name="TreeSmall" type="MeshInstance3D" parent="." unique_id=780029486]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.543786, 1.1920929e-07, -1.112962)
 mesh = ExtResource("40_ixas7")
-
-[node name="Grass" type="MeshInstance3D" parent="." unique_id=1868661531]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0186777, 0, -5.99602)
-mesh = ExtResource("41_u6xcq")

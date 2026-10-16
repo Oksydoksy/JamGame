@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://dj4dkr4wpdyms"]
 
 [ext_resource type="Script" uid="uid://dq0hioe2wcdf8" path="res://scenes/level.gd" id="1_w7c3h"]
+[ext_resource type="MeshLibrary" uid="uid://di2w472wvgeb0" path="res://biomes.tres" id="2_mx8sn"]
 [ext_resource type="MeshLibrary" uid="uid://bjncqeoeqjadu" path="res://buildings.tres" id="2_w8frs"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_e6xji"]
@@ -8,14 +9,23 @@
 [node name="Level" type="Node3D" unique_id=1026683869]
 script = ExtResource("1_w7c3h")
 
-[node name="GridMap" type="GridMap" parent="." unique_id=1127732831]
+[node name="graund_layer" type="GridMap" parent="." unique_id=385300166]
+mesh_library = ExtResource("2_mx8sn")
+physics_material = SubResource("PhysicsMaterial_e6xji")
+cell_center_y = false
+data = {
+"cells": PackedInt32Array(0, 65535, 1, 1, 65535, 1, 1, 65534, 0, 0, 65534, 1, 65535, 65534, 1, 65533, 0, 0, 65535, 65535, 1, 65534, 65535, 1, 65534, 0, 1, 65535, 0, 1, 0, 0, 1, 65534, 65534, 1, 65533, 65535, 1, 65533, 65534, 1, 65534, 65533, 1, 65535, 65533, 1, 0, 1, 1, 65535, 1, 1, 1, 0, 1, 0, 65533, 0, 65534, 65532, 0, 65535, 65532, 0, 65534, 1, 0, 65535, 2, 0, 0, 2, 0, 1, 1, 1, 2, 1, 0, 2, 0, 1, 2, 65535, 0, 3, 65535, 0, 3, 0, 0, 3, 1, 0, 1, 2, 0, 2, 2, 0, 65533, 65533, 1, 65532, 65535, 0, 65532, 65534, 0, 65532, 65533, 0, 65533, 65532, 0)
+}
+metadata/_editor_floor_ = Vector3(0, 0, 0)
+
+[node name="buildings_layer" type="GridMap" parent="." unique_id=1127732831]
 mesh_library = ExtResource("2_w8frs")
 physics_material = SubResource("PhysicsMaterial_e6xji")
 cell_center_y = false
 data = {
-"cells": PackedInt32Array(65535, 65535, 40, 0, 65535, 40, 1, 65535, 40, 1, 65534, 40, 0, 65534, 40, 65535, 65534, 40, 65534, 65534, 40, 65534, 65535, 40, 65533, 65534, 40, 65533, 65535, 40, 65534, 0, 40, 65535, 0, 40, 0, 0, 40, 65533, 0, 40, 1, 0, 40)
+"cells": PackedInt32Array(65535, 65535, 4, 65534, 65535, 2, 65535, 0, 2, 0, 0, 2, 1, 0, 2, 65535, 65534, 2, 65534, 65534, 4, 65534, 65533, 2, 65533, 65533, 2, 65533, 65534, 2, 65533, 65535, 2, 65534, 0, 2, 65535, 1, 2, 1, 1, 2, 0, 1, 4, 0, 65535, 2, 0, 65534, 2, 2, 0, 7, 65533, 0, 31)
 }
-metadata/_editor_floor_ = Vector3(0, -6, 0)
+metadata/_editor_floor_ = Vector3(0, 0, 0)
 
 [node name="PlayerCamera" type="Camera3D" parent="." unique_id=68151937]
 transform = Transform3D(1, 0, 0, 0, 0.887588, 0.46063817, 0, -0.46063817, 0.887588, 0, 8.754634, 8.026944)
