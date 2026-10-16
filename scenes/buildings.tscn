@@ -1,8 +1,5 @@
 [gd_scene format=3 uid="uid://bplk17kesrq3w"]
 
-[sub_resource type="BoxMesh" id="BoxMesh_gpbut"]
+[ext_resource type="PackedScene" uid="uid://daonl67kuy2qw" path="res://scenes/untitled.glb" id="1_yixnx"]
 
-[node name="Buildings" type="Node3D" unique_id=429469610]
-
-[node name="CSGMesh3D" type="CSGMesh3D" parent="." unique_id=2080197130]
-mesh = SubResource("BoxMesh_gpbut")
+[node name="untitled" unique_id=488184985 instance=ExtResource("1_yixnx")]

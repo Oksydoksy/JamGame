@@ -1,4 +1,5 @@
+DirectionalLight3D
+Camera3D
 CSGMesh3D
 GridMap
 TileMapLayer
-Camera3D

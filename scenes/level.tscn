@@ -1,5 +1,21 @@
 [gd_scene format=3 uid="uid://dj4dkr4wpdyms"]
 
+[ext_resource type="Script" uid="uid://dq0hioe2wcdf8" path="res://scenes/level.gd" id="1_w7c3h"]
+[ext_resource type="MeshLibrary" uid="uid://bjncqeoeqjadu" path="res://buildings.tres" id="2_w8frs"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_e6xji"]
+
 [node name="Level" type="Node3D" unique_id=1026683869]
+script = ExtResource("1_w7c3h")
 
 [node name="GridMap" type="GridMap" parent="." unique_id=1127732831]
+mesh_library = ExtResource("2_w8frs")
+physics_material = SubResource("PhysicsMaterial_e6xji")
+data = {
+"cells": PackedInt32Array(65531, 65533, 655360, 65533, 65533, 655360, 65535, 65533, 655360, 1, 65533, 655360, 65534, 65535, 655361)
+}
+
+[node name="PlayerCamera" type="Camera3D" parent="." unique_id=68151937]
+transform = Transform3D(1, 0, 0, 0, 0.887588, 0.46063817, 0, -0.46063817, 0.887588, 0, 8.754634, 8.026944)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1732960939]

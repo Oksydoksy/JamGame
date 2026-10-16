@@ -1,19 +1,21 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1792173112
+::res://::1792174324
 icon.svg::CompressedTexture2D::5512883033963963964::1792167007::1792167015::1::::<><><>0<>0<>4fc4e9693773b3edcf33ad35924b950d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://scenes/::1792173092
-level.tscn::PackedScene::7851029546322727442::1792173092::0::1::::<><><>0<>0<><>::
-::res://ui/::1792173114
+::res://scenes/::1792174324
+buildings.tscn::PackedScene::3462616790529168438::1792173526::0::1::::<><><>0<>0<><>::
+level.tscn::PackedScene::7851029546322727442::1792173643::0::1::::<><><>0<>0<><>::
+untitled.glb::PackedScene::7188973982414709730::1792174287::1792174325::1::::<><><>0<>0<>d0a9527c06f76a719fde80bbe68fd016<>res://.godot/imported/untitled.glb-e967fd2a2aa14b0f1b682ffa5a7ff8e8.scn::
+::res://ui/::1792173167
 control.tscn::PackedScene::4921322116633243679::1792173114::0::1::::<><><>0<>0<><>::
 License.txt::TextFile::-1::1792173112::0::1::::<><><>0<>0<><>::
 Preview.png::CompressedTexture2D::3413584319905523871::1792173113::1792173167::1::::<><><>0<>0<>f0b8839941afa4944c1ff79414a32d6f<>res://.godot/imported/Preview.png-273793166f0b7698ae7b61dc9faf3702.ctex::
 Sample.png::CompressedTexture2D::6076890342692005096::1792173113::1792173167::1::::<><><>0<>0<>4c24ffce5082f7736854b0cba288aed6<>res://.godot/imported/Sample.png-319884392b9626196059a93bde52e17f.ctex::
-::res://ui/Font/::1792173112
+::res://ui/Font/::1792173164
 Kenney Future Narrow.ttf::FontFile::4430272956735445667::1792173112::1792173164::1::::<><><>0<>0<>648f5e02ca60411d442fe71b357d852a<>res://.godot/imported/Kenney Future Narrow.ttf-828ed87531884b2f84697e92a2fa3020.fontdata::
 Kenney Future.ttf::FontFile::1596340475381137190::1792173112::1792173164::1::::<><><>0<>0<>b4beb8f442d0060865b5078328c1c700<>res://.godot/imported/Kenney Future.ttf-bad1465eaf572cc81dcb7a521bf94ca2.fontdata::
 ::res://ui/PNG/::1792173113
 ::res://ui/PNG/Blue/::1792173112
-::res://ui/PNG/Blue/Default/::1792173112
+::res://ui/PNG/Blue/Default/::1792173171
 bar_round_gloss_large.png::CompressedTexture2D::25313431332679776::1792173112::1792173171::1::::<><><>0<>0<>0fb16eaf68038f99ee30946bf5876b03<>res://.godot/imported/bar_round_gloss_large.png-0e8dcf937baa8e729ca814bfc5953487.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::2450196339710972222::1792173112::1792173171::1::::<><><>0<>0<>5e20cc887e723c5fddd2587e7d55eaa5<>res://.godot/imported/bar_round_gloss_large_l.png-aa40287116d9053aa1dc8b6aac11950c.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::1974350475770489335::1792173112::1792173171::1::::<><><>0<>0<>12a3f9f686635dcbc888f284fe42bb38<>res://.godot/imported/bar_round_gloss_large_m.png-a5f150708d8cb3765b58c04f38b0e84c.ctex::
@@ -74,7 +76,7 @@ crosshair_color_a.png::CompressedTexture2D::178371101318361453::1792173112::1792
 crosshair_color_b.png::CompressedTexture2D::2813396796131264738::1792173112::1792173171::1::::<><><>0<>0<>3e26c47aec4aaafdf08ac0fa07d125ed<>res://.godot/imported/crosshair_color_b.png-53d9ac0a19999e13088059362a56af75.ctex::
 crosshair_color_c.png::CompressedTexture2D::914950346744516955::1792173112::1792173171::1::::<><><>0<>0<>ba1f603af7d20caf98f06e0bd87d7e4f<>res://.godot/imported/crosshair_color_c.png-d276c37a028a7c2303b68a06ef7596b0.ctex::
 crosshair_color_d.png::CompressedTexture2D::7830054396593350452::1792173112::1792173171::1::::<><><>0<>0<>3b5a645ddbaa45de4dabd7478cd837d0<>res://.godot/imported/crosshair_color_d.png-5b6f85d4557c08fcab7dc42ab402f720.ctex::
-::res://ui/PNG/Blue/Double/::1792173112
+::res://ui/PNG/Blue/Double/::1792173172
 bar_round_gloss_large.png::CompressedTexture2D::5462730526822498668::1792173112::1792173171::1::::<><><>0<>0<>4af1a5315311cb6d230acc8280a96e32<>res://.godot/imported/bar_round_gloss_large.png-eeb6211e0298ae7c8b50ae3c0af58cbf.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::4196896721167740178::1792173112::1792173171::1::::<><><>0<>0<>f644608c6ca6cc7504e765124e0af0d6<>res://.godot/imported/bar_round_gloss_large_l.png-4539c47bbdd02724797cd039173821cd.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::2267375967325469792::1792173112::1792173171::1::::<><><>0<>0<>93f6d2f1f2936588bc160a2ba9e9a4f8<>res://.godot/imported/bar_round_gloss_large_m.png-2d63f4baebf7379887239d7f508f7541.ctex::
@@ -136,7 +138,7 @@ crosshair_color_b.png::CompressedTexture2D::9051548988407690772::1792173112::179
 crosshair_color_c.png::CompressedTexture2D::5666171455574477309::1792173112::1792173171::1::::<><><>0<>0<>f3c46f041540faeb3585353277195cee<>res://.godot/imported/crosshair_color_c.png-63d624aa1903554a610f3d50021fa6da.ctex::
 crosshair_color_d.png::CompressedTexture2D::1109675553115213296::1792173112::1792173171::1::::<><><>0<>0<>fd92c5b6447f41bc45c7591e394d9243<>res://.godot/imported/crosshair_color_d.png-3d1e863dd4041a02e100d7eff8d6e491.ctex::
 ::res://ui/PNG/Extra/::1792173112
-::res://ui/PNG/Extra/Default/::1792173112
+::res://ui/PNG/Extra/Default/::1792173171
 bar_shadow_round_large.png::CompressedTexture2D::3369161731711720906::1792173112::1792173171::1::::<><><>0<>0<>f19ade883d5784fdb9f3ad1ffb8f7256<>res://.godot/imported/bar_shadow_round_large.png-c4c5fe5d90c8d12f65394f2ca1d6927b.ctex::
 bar_shadow_round_large_l.png::CompressedTexture2D::3789861130928154924::1792173112::1792173171::1::::<><><>0<>0<>271df18c6ef2af6dd859655786c8d9c6<>res://.godot/imported/bar_shadow_round_large_l.png-7598d2165132b48fa8ea61769f893fea.ctex::
 bar_shadow_round_large_m.png::CompressedTexture2D::8078411937831307965::1792173112::1792173171::1::::<><><>0<>0<>6de2f099dea5142ef0ab6464f985c0db<>res://.godot/imported/bar_shadow_round_large_m.png-4bc2c9c3606eec92d419caf13e6619a9.ctex::
@@ -207,7 +209,7 @@ panel_rectangle.png::CompressedTexture2D::1292908005275411092::1792173112::17921
 panel_rectangle_screws.png::CompressedTexture2D::7459021319952301641::1792173112::1792173169::1::::<><><>0<>0<>8beb4dd8adb356122a6b187d1de5a7f7<>res://.godot/imported/panel_rectangle_screws.png-82d27d982eea2ed2d5356f0a5164c414.ctex::
 panel_square.png::CompressedTexture2D::3164313105854220356::1792173112::1792173169::1::::<><><>0<>0<>76c0fae48535cd4801397f8ea739cd77<>res://.godot/imported/panel_square.png-d7723832c2fd21a75048b2d3d4b2f464.ctex::
 panel_square_screws.png::CompressedTexture2D::2232363573289620996::1792173112::1792173169::1::::<><><>0<>0<>25da51577ddb47a2a881564cea3b69c3<>res://.godot/imported/panel_square_screws.png-b2abbe1fef59efdf2b96d4c019af0fad.ctex::
-::res://ui/PNG/Extra/Double/::1792173112
+::res://ui/PNG/Extra/Double/::1792173170
 bar_shadow_round_large.png::CompressedTexture2D::9004020483966107928::1792173112::1792173169::1::::<><><>0<>0<>de19597fbde9b4ee4b61c79b037cdb3a<>res://.godot/imported/bar_shadow_round_large.png-6c864b9306bc62589bae54ab4c17619e.ctex::
 bar_shadow_round_large_l.png::CompressedTexture2D::1862725290492695179::1792173112::1792173169::1::::<><><>0<>0<>b1c0138702e1c272fc9987ef60c5fe21<>res://.godot/imported/bar_shadow_round_large_l.png-52da6af51f8ba3dc65cd73333e1bde02.ctex::
 bar_shadow_round_large_m.png::CompressedTexture2D::60611882729116397::1792173112::1792173169::1::::<><><>0<>0<>de9df890992b336397e9631a3bef52bf<>res://.godot/imported/bar_shadow_round_large_m.png-1a908d015c1101dbcd34400cb98b618f.ctex::
@@ -279,7 +281,7 @@ panel_rectangle_screws.png::CompressedTexture2D::7940762050654659936::1792173112
 panel_square.png::CompressedTexture2D::2280059112944711488::1792173112::1792173170::1::::<><><>0<>0<>10c6647a540eb5b1666ea27c469a5d06<>res://.godot/imported/panel_square.png-3f8369c3e2c95c9403f8423c028dcc57.ctex::
 panel_square_screws.png::CompressedTexture2D::5514806874320584614::1792173112::1792173170::1::::<><><>0<>0<>debd041f632a837f520f1600e5f0f314<>res://.godot/imported/panel_square_screws.png-a5b7c15751a0559b125b0a739d705f5e.ctex::
 ::res://ui/PNG/Green/::1792173112
-::res://ui/PNG/Green/Default/::1792173112
+::res://ui/PNG/Green/Default/::1792173174
 bar_round_gloss_large.png::CompressedTexture2D::352003343672881406::1792173112::1792173170::1::::<><><>0<>0<>3b13ece7dbd54be12dc8c8e64ec24476<>res://.godot/imported/bar_round_gloss_large.png-76f95f593b85ec7b1a4c41d6471a0e97.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::6684628143098881490::1792173112::1792173170::1::::<><><>0<>0<>498fd52a3fc903151757c35edcd02ecc<>res://.godot/imported/bar_round_gloss_large_l.png-57f604c74f4ca844e453114a843cd0bb.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::5113558550203175993::1792173112::1792173170::1::::<><><>0<>0<>8f62d3fcd97b1fae9ef9b1a2cbdd3755<>res://.godot/imported/bar_round_gloss_large_m.png-0524c057b518da90c309f350512d9e71.ctex::
@@ -340,7 +342,7 @@ crosshair_color_a.png::CompressedTexture2D::5335450803340567202::1792173112::179
 crosshair_color_b.png::CompressedTexture2D::4801580523001737962::1792173112::1792173173::1::::<><><>0<>0<>ab32a9ffc39ad3c0c54f54a5d2015e0b<>res://.godot/imported/crosshair_color_b.png-66ee01920f2d8a1522a57f99917714e4.ctex::
 crosshair_color_c.png::CompressedTexture2D::6344051985487302932::1792173112::1792173173::1::::<><><>0<>0<>2c9c90fa1d2966723c5cd9ec6019bec0<>res://.godot/imported/crosshair_color_c.png-aab0dcbeb0a56104cf6bee1c80c77b85.ctex::
 crosshair_color_d.png::CompressedTexture2D::510872259107661638::1792173112::1792173173::1::::<><><>0<>0<>e0dc19f53fc447cc3a465e332e6535f7<>res://.godot/imported/crosshair_color_d.png-09efaf0669c7b945b4d3a548679e464e.ctex::
-::res://ui/PNG/Green/Double/::1792173113
+::res://ui/PNG/Green/Double/::1792173175
 bar_round_gloss_large.png::CompressedTexture2D::2592624838105646681::1792173112::1792173173::1::::<><><>0<>0<>46d7d70d1784fd14209dd9d71f9795f9<>res://.godot/imported/bar_round_gloss_large.png-37152427b3e3ec01e3d346b20f6e690b.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::174684379875802865::1792173112::1792173173::1::::<><><>0<>0<>9f8ea4b76a4984b1342899d54f16f653<>res://.godot/imported/bar_round_gloss_large_l.png-81475b44d172406fae46ae6e70250dc9.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::2594014841301055605::1792173112::1792173173::1::::<><><>0<>0<>ad6564b95388367766441811cb055a94<>res://.godot/imported/bar_round_gloss_large_m.png-6c97b9b49f0f269672cedfb1df434011.ctex::
@@ -402,7 +404,7 @@ crosshair_color_b.png::CompressedTexture2D::4851208619315577257::1792173113::179
 crosshair_color_c.png::CompressedTexture2D::2489437181241088779::1792173113::1792173174::1::::<><><>0<>0<>05281816bc09c11aec324e507c5cc1ad<>res://.godot/imported/crosshair_color_c.png-2b16a54b8aa25663f993c5efc2d42e93.ctex::
 crosshair_color_d.png::CompressedTexture2D::501833450057944926::1792173113::1792173174::1::::<><><>0<>0<>f42bd2fa529bfddba77f81e1afb9c3ec<>res://.godot/imported/crosshair_color_d.png-c96c42e20b352ce6d73e523aba8a06c6.ctex::
 ::res://ui/PNG/Grey/::1792173113
-::res://ui/PNG/Grey/Default/::1792173113
+::res://ui/PNG/Grey/Default/::1792173174
 bar_round_gloss_large.png::CompressedTexture2D::5393643802170287420::1792173113::1792173174::1::::<><><>0<>0<>24661fddb389c68776d15894f341064e<>res://.godot/imported/bar_round_gloss_large.png-a19239a9e3db76f2af2adcc0be98e09c.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::1123403865623573891::1792173113::1792173174::1::::<><><>0<>0<>5e27ac98fd6e351dea89c6cb092d7e35<>res://.godot/imported/bar_round_gloss_large_l.png-49839192a59461e4a16940119c283e3b.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::4998459360591706264::1792173113::1792173174::1::::<><><>0<>0<>8ee2b0b6403d4dac239b54a9294ab88b<>res://.godot/imported/bar_round_gloss_large_m.png-a5693d1e9e9d3086a65f144fecbc8872.ctex::
@@ -463,7 +465,7 @@ crosshair_color_a.png::CompressedTexture2D::283741087038597115::1792173113::1792
 crosshair_color_b.png::CompressedTexture2D::4568496049463242536::1792173113::1792173173::1::::<><><>0<>0<>994b494777093af88c41a1937a775f00<>res://.godot/imported/crosshair_color_b.png-5cea59b96a78e5d169e21e266dd4d522.ctex::
 crosshair_color_c.png::CompressedTexture2D::7403013863945215242::1792173113::1792173172::1::::<><><>0<>0<>caa8430f3552248289c2aeddc67b58e7<>res://.godot/imported/crosshair_color_c.png-a5a740db8f3402d2b97baaa7830387f9.ctex::
 crosshair_color_d.png::CompressedTexture2D::2544060708739279795::1792173113::1792173172::1::::<><><>0<>0<>24e48ca874bf81d22a6cd53fe25952e1<>res://.godot/imported/crosshair_color_d.png-1c8e86632df5aa5b134347f00971e8db.ctex::
-::res://ui/PNG/Grey/Double/::1792173113
+::res://ui/PNG/Grey/Double/::1792173173
 bar_round_gloss_large.png::CompressedTexture2D::3775469491262643425::1792173113::1792173172::1::::<><><>0<>0<>d4921169368317ca3b2b92a449958ed5<>res://.godot/imported/bar_round_gloss_large.png-230d0f7f6c3ba3dd064f4555b0b192f4.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::5590830418355028739::1792173113::1792173172::1::::<><><>0<>0<>de548b253258a40e198bbb1537811baa<>res://.godot/imported/bar_round_gloss_large_l.png-555429675d3a32b8c4386a9728c88342.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::7051208369189329470::1792173113::1792173172::1::::<><><>0<>0<>0a99e4727efbe241753dc85aab5ca9e8<>res://.godot/imported/bar_round_gloss_large_m.png-ca833421fc8a03f53c2eb7dac485f909.ctex::
@@ -525,7 +527,7 @@ crosshair_color_b.png::CompressedTexture2D::6346880405319447554::1792173113::179
 crosshair_color_c.png::CompressedTexture2D::5687487251424463524::1792173113::1792173173::1::::<><><>0<>0<>618b443395a1aa7c947b69cfbab9cbbc<>res://.godot/imported/crosshair_color_c.png-c9a495d2102e0261cab951c2e803343b.ctex::
 crosshair_color_d.png::CompressedTexture2D::2640734643871813247::1792173113::1792173173::1::::<><><>0<>0<>b01260b856d38060c3ce40d3a7666510<>res://.godot/imported/crosshair_color_d.png-28df5d9e3d52bacc40ac6fe164374cd6.ctex::
 ::res://ui/PNG/Red/::1792173113
-::res://ui/PNG/Red/Default/::1792173113
+::res://ui/PNG/Red/Default/::1792173173
 bar_round_gloss_large.png::CompressedTexture2D::1498971983153242023::1792173113::1792173173::1::::<><><>0<>0<>db517430895916a67fb628e90ce29bf9<>res://.godot/imported/bar_round_gloss_large.png-e31d047e62d4e61cec0e87c9af5cea2b.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::1591707115408058562::1792173113::1792173173::1::::<><><>0<>0<>896b1438c874ce024c86bb9b9caef432<>res://.godot/imported/bar_round_gloss_large_l.png-184c8f6e0355f48bf7c4a27852ae8cc4.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::3333305606885537718::1792173113::1792173173::1::::<><><>0<>0<>985b76903a3e867da7c598713e9f6b54<>res://.godot/imported/bar_round_gloss_large_m.png-6a4293a5280864e8098d2111613b28f2.ctex::
@@ -586,7 +588,7 @@ crosshair_color_a.png::CompressedTexture2D::3288656632224636891::1792173113::179
 crosshair_color_b.png::CompressedTexture2D::2028120373790866314::1792173113::1792173166::1::::<><><>0<>0<>6a3618749ed153f897a22af66e8efc18<>res://.godot/imported/crosshair_color_b.png-39e88d96f390e479f7efc78105e47d5c.ctex::
 crosshair_color_c.png::CompressedTexture2D::5923265040724805774::1792173113::1792173166::1::::<><><>0<>0<>0a09fd8918d0db56f18bdde5e0a81d3c<>res://.godot/imported/crosshair_color_c.png-daa6b574ab3784f4cfc3ca40fcf4788a.ctex::
 crosshair_color_d.png::CompressedTexture2D::575952143996947739::1792173113::1792173166::1::::<><><>0<>0<>11674854ee61a314030cef1b38879739<>res://.godot/imported/crosshair_color_d.png-a59b5c1025a5d2fef119dffefb54fab5.ctex::
-::res://ui/PNG/Red/Double/::1792173113
+::res://ui/PNG/Red/Double/::1792173166
 bar_round_gloss_large.png::CompressedTexture2D::6095145140231439902::1792173113::1792173166::1::::<><><>0<>0<>7a88539ff6d61034473c9ca578bff538<>res://.godot/imported/bar_round_gloss_large.png-8081e4862b0de9773a3acce60bed583e.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::3629427355535165771::1792173113::1792173166::1::::<><><>0<>0<>4ac54ce99ac6934283eb5aff53c81fb4<>res://.godot/imported/bar_round_gloss_large_l.png-59bfdb6b2fe41e2f31fcece100c1f220.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::844475409538770780::1792173113::1792173166::1::::<><><>0<>0<>0e3ec9662fb561768b321e5183a96e8c<>res://.godot/imported/bar_round_gloss_large_m.png-f46b2f57cb4d1a2064084291c6fae62c.ctex::
@@ -648,7 +650,7 @@ crosshair_color_b.png::CompressedTexture2D::1362819060543922810::1792173113::179
 crosshair_color_c.png::CompressedTexture2D::5203189902295560760::1792173113::1792173165::1::::<><><>0<>0<>d09beb2842db812be0b61eefd5e5da35<>res://.godot/imported/crosshair_color_c.png-aca4f4820ea23a0bd84903fbb3efb6e2.ctex::
 crosshair_color_d.png::CompressedTexture2D::4215865193821285438::1792173113::1792173165::1::::<><><>0<>0<>14f121a6fdfdaaceb9f45cb2c3d37ba1<>res://.godot/imported/crosshair_color_d.png-2c0db193ceeb91869ff14ba99c704485.ctex::
 ::res://ui/PNG/Yellow/::1792173113
-::res://ui/PNG/Yellow/Default/::1792173113
+::res://ui/PNG/Yellow/Default/::1792173166
 bar_round_gloss_large.png::CompressedTexture2D::6976589833972579989::1792173113::1792173165::1::::<><><>0<>0<>d10b0b8efa03f4a4aaf6605af330aa65<>res://.godot/imported/bar_round_gloss_large.png-e207a6d7187569e627fee885b24c2f0b.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::8461649874329976295::1792173113::1792173165::1::::<><><>0<>0<>29c5a6ff450a5a3d35630dcc31073b80<>res://.godot/imported/bar_round_gloss_large_l.png-05431863623735cf50d57d2e8eb0885a.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::4017724847448339584::1792173113::1792173165::1::::<><><>0<>0<>1eb56c18cd00d60f54b5344d95f79e32<>res://.godot/imported/bar_round_gloss_large_m.png-6349bf4bfcc0dc4f30c38daa15b548ff.ctex::
@@ -709,7 +711,7 @@ crosshair_color_a.png::CompressedTexture2D::7008483602950476257::1792173113::179
 crosshair_color_b.png::CompressedTexture2D::3579612478831408369::1792173113::1792173166::1::::<><><>0<>0<>da5f23a8ed668399f9a9a5d786a516ac<>res://.godot/imported/crosshair_color_b.png-d3ea249240863758db8c42b078d89ef2.ctex::
 crosshair_color_c.png::CompressedTexture2D::4297657610606759887::1792173113::1792173166::1::::<><><>0<>0<>a8bf138d9dd4f46ba851dd2c4c057d43<>res://.godot/imported/crosshair_color_c.png-3826505a6e7692020187f607a0593c77.ctex::
 crosshair_color_d.png::CompressedTexture2D::6228303647430552412::1792173113::1792173166::1::::<><><>0<>0<>77ce3556ca16fac10e4a95f172f28eef<>res://.godot/imported/crosshair_color_d.png-7c5ea3e4d3ccf4ba353a3b232df493d6.ctex::
-::res://ui/PNG/Yellow/Double/::1792173113
+::res://ui/PNG/Yellow/Double/::1792173166
 bar_round_gloss_large.png::CompressedTexture2D::2074593345301157785::1792173113::1792173166::1::::<><><>0<>0<>8c05eec867df343a9435563cf804b374<>res://.godot/imported/bar_round_gloss_large.png-28d0b951b0a89605eef3765654918967.ctex::
 bar_round_gloss_large_l.png::CompressedTexture2D::8429447859952429165::1792173113::1792173166::1::::<><><>0<>0<>c56e0356a49062f82be43b454f14291c<>res://.godot/imported/bar_round_gloss_large_l.png-8af0239de9b32616e3dde7a52eb2df58.ctex::
 bar_round_gloss_large_m.png::CompressedTexture2D::8330868985016906501::1792173113::1792173166::1::::<><><>0<>0<>f729947489de6366bf270c64cabe8d1c<>res://.godot/imported/bar_round_gloss_large_m.png-eab0cb4fb1db1eff64b5de8a418c0ef5.ctex::
@@ -771,7 +773,7 @@ crosshair_color_b.png::CompressedTexture2D::1537210412966737759::1792173113::179
 crosshair_color_c.png::CompressedTexture2D::5844844023010828756::1792173113::1792173164::1::::<><><>0<>0<>2094f377e230894f71f1eafdd33e3b37<>res://.godot/imported/crosshair_color_c.png-dd78a03257ddd6ed2e523fe4de2f30f5.ctex::
 crosshair_color_d.png::CompressedTexture2D::4670352764382063044::1792173113::1792173164::1::::<><><>0<>0<>3dce59773391e298c503b42cfd1ca041<>res://.godot/imported/crosshair_color_d.png-0bcb740b833dad4d7d2d7cbf7c7bcadf.ctex::
 ::res://ui/Vector/::1792173114
-::res://ui/Vector/Blue/::1792173113
+::res://ui/Vector/Blue/::1792173165
 bar_round_gloss_large.svg::CompressedTexture2D::6646034117882033297::1792173113::1792173164::1::::<><><>0<>0<>448c3271cf01a089d8ee8f926c73b0a7<>res://.godot/imported/bar_round_gloss_large.svg-1b7f15071934ac5600503d87ced099cd.ctex::
 bar_round_gloss_large_l.svg::CompressedTexture2D::764377923533330682::1792173113::1792173164::1::::<><><>0<>0<>cafc714be16be87fc73a9ff7157661d2<>res://.godot/imported/bar_round_gloss_large_l.svg-5fab953a5cf2273590d1fcde7967257f.ctex::
 bar_round_gloss_large_m.svg::CompressedTexture2D::1792628632259284662::1792173113::1792173164::1::::<><><>0<>0<>3adfd86d62a55d32205d7638fca7a99f<>res://.godot/imported/bar_round_gloss_large_m.svg-05dad81c522aae265d5c976e2c4ee40d.ctex::
@@ -832,7 +834,7 @@ crosshair_color_a.svg::CompressedTexture2D::6605658102967563322::1792173113::179
 crosshair_color_b.svg::CompressedTexture2D::1261629585803009642::1792173113::1792173165::1::::<><><>0<>0<>dd3ac868146a9fb478691452a974ce26<>res://.godot/imported/crosshair_color_b.svg-862f391ac81c5a7851d0ebb9c154879b.ctex::
 crosshair_color_c.svg::CompressedTexture2D::3147371790071467620::1792173113::1792173165::1::::<><><>0<>0<>7f3c72cf73949ad0ef7d50c92a5db970<>res://.godot/imported/crosshair_color_c.svg-cb41a26ac1a5833bb3f88bdceff37584.ctex::
 crosshair_color_d.svg::CompressedTexture2D::2494195598390227693::1792173113::1792173165::1::::<><><>0<>0<>9a573c02275fb6a45a8acc082808a332<>res://.godot/imported/crosshair_color_d.svg-e68518fabac220ce6f66e0fcde788968.ctex::
-::res://ui/Vector/Extra/::1792173113
+::res://ui/Vector/Extra/::1792173168
 bar_shadow_round_large.svg::CompressedTexture2D::8869375106051194938::1792173113::1792173165::1::::<><><>0<>0<>e66cf7a7ae77ed8217da37e82ccd94fd<>res://.godot/imported/bar_shadow_round_large.svg-205eacf4e497134f0854b1a24f35e203.ctex::
 bar_shadow_round_large_l.svg::CompressedTexture2D::6914714691283126710::1792173113::1792173165::1::::<><><>0<>0<>3fb1516bf1e2918f19dbb185b1e466c2<>res://.godot/imported/bar_shadow_round_large_l.svg-1301d5dce5d08fabc19c4191819a6bad.ctex::
 bar_shadow_round_large_m.svg::CompressedTexture2D::4914642392939687214::1792173113::1792173165::1::::<><><>0<>0<>c88364a2de11a82ad7cc86a1e1d21766<>res://.godot/imported/bar_shadow_round_large_m.svg-5db91756fd643eb5628e1db4dd36d466.ctex::
@@ -903,7 +905,7 @@ panel_rectangle.svg::CompressedTexture2D::3160018855512405954::1792173113::17921
 panel_rectangle_screws.svg::CompressedTexture2D::2439626216307873070::1792173113::1792173168::1::::<><><>0<>0<>e786487e362ccc2692fb7cda39e8a011<>res://.godot/imported/panel_rectangle_screws.svg-4db9984c1dd7fcffd05a9b3b96d2ac12.ctex::
 panel_square.svg::CompressedTexture2D::2543208172071078540::1792173113::1792173168::1::::<><><>0<>0<>54f09873a25b456b7d6e55bdbaf2b8d6<>res://.godot/imported/panel_square.svg-150f375e9853cbcae1e000a51ebe7737.ctex::
 panel_square_screws.svg::CompressedTexture2D::5791191863704544388::1792173113::1792173168::1::::<><><>0<>0<>dca145dd793a551ac2583afab679e596<>res://.godot/imported/panel_square_screws.svg-aa1f2a72148b3ebb774d8d4fdfa0d234.ctex::
-::res://ui/Vector/Green/::1792173114
+::res://ui/Vector/Green/::1792173169
 bar_round_gloss_large.svg::CompressedTexture2D::938213018523303973::1792173113::1792173168::1::::<><><>0<>0<>a06d4b325b778168d9713180bd5c4312<>res://.godot/imported/bar_round_gloss_large.svg-2f21fee8a3fbf1e905ede9cc4f44fff0.ctex::
 bar_round_gloss_large_l.svg::CompressedTexture2D::6390742486442605584::1792173113::1792173168::1::::<><><>0<>0<>a875aeadf036f18531e48723924f1d92<>res://.godot/imported/bar_round_gloss_large_l.svg-03a2d31a07a11ad06eba2326cf3e5d3a.ctex::
 bar_round_gloss_large_m.svg::CompressedTexture2D::7609771123209351894::1792173113::1792173168::1::::<><><>0<>0<>378369f22eae0ddae3d42caca4549468<>res://.godot/imported/bar_round_gloss_large_m.svg-066344e0ed99fd8cb66af456343d9f6b.ctex::
@@ -964,7 +966,7 @@ crosshair_color_a.svg::CompressedTexture2D::3169693156156197411::1792173114::179
 crosshair_color_b.svg::CompressedTexture2D::7473128138828109725::1792173114::1792173169::1::::<><><>0<>0<>2df81ab2570f7103fe5eff2e86d24979<>res://.godot/imported/crosshair_color_b.svg-3b2d334f4e28662fedc832818614a9cd.ctex::
 crosshair_color_c.svg::CompressedTexture2D::8528557761468219198::1792173114::1792173169::1::::<><><>0<>0<>b5de2c30cd1bc52753b43991a2ebfb33<>res://.godot/imported/crosshair_color_c.svg-bb8d324ef75d804e5f62958621506353.ctex::
 crosshair_color_d.svg::CompressedTexture2D::5103449681635390354::1792173114::1792173169::1::::<><><>0<>0<>3524b3de111ad5a9dd038f15048a1a62<>res://.godot/imported/crosshair_color_d.svg-5b98146b87003ea82a370caadc652737.ctex::
-::res://ui/Vector/Grey/::1792173114
+::res://ui/Vector/Grey/::1792173169
 bar_round_gloss_large.svg::CompressedTexture2D::6211752984507931888::1792173114::1792173169::1::::<><><>0<>0<>93e45a9bb99ce7e2c0ef1a05d4bcbda6<>res://.godot/imported/bar_round_gloss_large.svg-ce89ad40ec34f62c18d6a0318c1a15d7.ctex::
 bar_round_gloss_large_l.svg::CompressedTexture2D::8639542367838900763::1792173114::1792173169::1::::<><><>0<>0<>9101158f400dae3aef737be4628582ff<>res://.godot/imported/bar_round_gloss_large_l.svg-c5e4c13eaac43789ab8efad0176dc67a.ctex::
 bar_round_gloss_large_m.svg::CompressedTexture2D::6407700111336069594::1792173114::1792173169::1::::<><><>0<>0<>20cab158ba35b0a3f7e3c613f4a2df5d<>res://.godot/imported/bar_round_gloss_large_m.svg-8db64d0a2514d2fb1ee3e68b587eac9d.ctex::
@@ -1025,7 +1027,7 @@ crosshair_color_a.svg::CompressedTexture2D::8687138892181968668::1792173114::179
 crosshair_color_b.svg::CompressedTexture2D::8358176425133559236::1792173114::1792173167::1::::<><><>0<>0<>44f6d9e93b3528018becb5195c0ebac2<>res://.godot/imported/crosshair_color_b.svg-2bb21d1997840bff4a996b1a13a6be00.ctex::
 crosshair_color_c.svg::CompressedTexture2D::6594559096140846830::1792173114::1792173167::1::::<><><>0<>0<>7d61113420aca810969899baa8d9925b<>res://.godot/imported/crosshair_color_c.svg-def52bbffccb1f2d34d687a096360e24.ctex::
 crosshair_color_d.svg::CompressedTexture2D::1889159838673015119::1792173114::1792173167::1::::<><><>0<>0<>34183213d8f7e4014f9f6bc90cb42917<>res://.godot/imported/crosshair_color_d.svg-55d7d7ba74fa167aa8d0be9fd921b9b9.ctex::
-::res://ui/Vector/Red/::1792173114
+::res://ui/Vector/Red/::1792173168
 bar_round_gloss_large.svg::CompressedTexture2D::8536464533472730213::1792173114::1792173167::1::::<><><>0<>0<>774ff49ebaa00873fedec29d9077c656<>res://.godot/imported/bar_round_gloss_large.svg-3662823c048d5ee4ffac7e5133f8e5b1.ctex::
 bar_round_gloss_large_l.svg::CompressedTexture2D::8763632353270833237::1792173114::1792173167::1::::<><><>0<>0<>f37a016cea93850cf13d694650c95325<>res://.godot/imported/bar_round_gloss_large_l.svg-0f2d69d7910154fdad9f818ef32f1f74.ctex::
 bar_round_gloss_large_m.svg::CompressedTexture2D::8042670022767906389::1792173114::1792173167::1::::<><><>0<>0<>ff1a5f672b48d13cba725f6924d61d3d<>res://.godot/imported/bar_round_gloss_large_m.svg-b8ac6ec4843f6acd60a84885acb80590.ctex::
@@ -1086,7 +1088,7 @@ crosshair_color_a.svg::CompressedTexture2D::4455279152664081863::1792173114::179
 crosshair_color_b.svg::CompressedTexture2D::2648215988487306201::1792173114::1792173167::1::::<><><>0<>0<>d35963c661655b19970282a93760205c<>res://.godot/imported/crosshair_color_b.svg-74f79afd17f007a53183c7a24308f440.ctex::
 crosshair_color_c.svg::CompressedTexture2D::2120518727848271277::1792173114::1792173167::1::::<><><>0<>0<>319be78f776491adb50de4c349865e4c<>res://.godot/imported/crosshair_color_c.svg-2d01562498f52862bb187d616d7c9abb.ctex::
 crosshair_color_d.svg::CompressedTexture2D::3400532153639673369::1792173114::1792173167::1::::<><><>0<>0<>e845e9b60f2381dfea5146cc6d69a161<>res://.godot/imported/crosshair_color_d.svg-5b2ff470e031eeb353e8eadd7ecf55d0.ctex::
-::res://ui/Vector/Yellow/::1792173114
+::res://ui/Vector/Yellow/::1792173168
 bar_round_gloss_large.svg::CompressedTexture2D::1108648399300559035::1792173114::1792173167::1::::<><><>0<>0<>ed944018d3d65c0a2465bd5324ceac9f<>res://.godot/imported/bar_round_gloss_large.svg-ac1b374e324dbc6525cad11d05740875.ctex::
 bar_round_gloss_large_l.svg::CompressedTexture2D::4921245638234284120::1792173114::1792173167::1::::<><><>0<>0<>5880669a86cf35c49999e014175420ad<>res://.godot/imported/bar_round_gloss_large_l.svg-c7e04878d84772c4477be1306f2819f0.ctex::
 bar_round_gloss_large_m.svg::CompressedTexture2D::1900304048991891301::1792173114::1792173167::1::::<><><>0<>0<>ee3d703e802cb486014c3523391cc1fa<>res://.godot/imported/bar_round_gloss_large_m.svg-0e6fbb394d0eac06926376dad92af06e.ctex::
